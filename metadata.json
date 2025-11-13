@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Legal Document Analyzer",
+  "description": "An AI-powered application that analyzes legal documents to provide summaries, extract key clauses, and identify potential risks using the Gemini API."
+}
